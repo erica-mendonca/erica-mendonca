@@ -1,7 +1,7 @@
-Hi! I’m @erica-mendonca, economist, M.A in Applied Economic, with few years of experience in industrial economics, sector analises and fiscal policy. And very curious about Data Science. 
-I’m interested in economic growth models, macro research, applied research and data science
-Now I’m currently learning machine learning and R. 
--
+- Hi! I’m @erica-mendonca, economist, M.A in Applied Economic, with few years of experience in industrial economics, sector analises and fiscal policy. And very curious about Data Science. 
+- I’m interested in economic growth models, macro research, applied research in economics and data science
+- Now I’m currently learning machine learning and R. 
+
 - 📫 How to reach me erica_unesp@hotmail.com
 
 <!---
